@@ -1,0 +1,4 @@
+defaultNamespace: postgres-operator
+helm:
+  releaseName: postgres-operator
+  chart: https://github.com/zalando/postgres-operator/archive/refs/tags/v1.7.0.tar.gz
