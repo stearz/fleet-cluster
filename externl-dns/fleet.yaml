@@ -7,4 +7,4 @@ helm:
   values:
     provider: cloudflare
     cloudflare:
-      secretName: "cloudflare-credentials"
+      secretName: cloudflare-api-token-secret
