@@ -8,3 +8,4 @@ helm:
     provider: cloudflare
     cloudflare:
       secretName: cloudflare-api-token-secret
+      proxied: false
